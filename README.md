@@ -1,4 +1,4 @@
-# Spring Boot Blogging API
+# Blogging API
 
 This is a RESTful API for a personal blog built with Spring Boot, providing basic CRUD operations for managing blog articles.
 
