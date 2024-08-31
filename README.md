@@ -33,8 +33,8 @@ This is a RESTful API for managing a personal blog, built with Spring Boot. It p
 
 ## Prerequisites
 
-- **JDK 17** or later
-- **Maven** or **Gradle**
+- **JDK 22**
+- **Maven** 
 - **PostgreSQL**
 
 ## Getting Started
